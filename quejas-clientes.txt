@@ -1,0 +1,5 @@
+﻿Producto;Motivo;Cliente Usuario;
+veri;cvbcbcv;useram;
+veri;sfsdfs;useram;
+veri;sdasda;adi;
+barcelo;Estaba rancio;useram;
